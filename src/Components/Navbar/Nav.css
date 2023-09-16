@@ -1,0 +1,36 @@
+.nav-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.nav-menu li{
+    margin: 0px 20px;
+}
+
+.nav-menu li a{
+    text-decoration: none;
+    color: #a31834;
+    font-size: 20px;
+}
+
+.toggle-nav{
+    list-style: none;
+}
+.toggle-nav li a{
+    text-decoration: none;
+    color: grey;
+    font-size: 20px;
+}
+
+.nav-menu li{
+    margin: 10px 10px;
+}
+
+@media only screen and (min-width: 600px){
+    .css-omfyym{
+        margin-left: 10px !important ;
+    }
+}
