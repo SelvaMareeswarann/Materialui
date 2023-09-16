@@ -1,0 +1,23 @@
+.img-logo{
+    height:100px;
+    width:150px;
+   
+    margin-top:20px;
+}
+.mobile-logo{
+  height:100px;
+  width:150px;
+  margin-left: 10px;
+  margin-top:20px;
+}
+
+.desktop-logo{
+  height:100px;
+  width:150px;
+  margin-left:20px
+}
+
+.footer-link a {
+  text-decoration: none;
+  color:black
+}
